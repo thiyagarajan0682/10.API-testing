@@ -54,7 +54,7 @@ public class UnirestLibraryExample {
 		// example.postRequestExample();
 		//example.putRequestExample();
 		example.deleteRequestExample();
-		System.out.println("**********************Branch one***************************");
+		System.out.println("***********************Branch one****************************");
 	}
 
 }
