@@ -55,7 +55,8 @@ public class UnirestLibraryExample {
 		//example.putRequestExample();
 		example.deleteRequestExample();
 		System.out.println("************************Branch one*****************************");
-		System.out.println("************************2nd modification*****************************");
+		System.out.println("**********Checking how to create PR from branch one to master******************");
+		System.out.println("**********Just checking how commit is working in local*************");
 	}
 
 }
